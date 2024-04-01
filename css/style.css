@@ -1,0 +1,12 @@
+
+#input{
+    height: 34px;
+    padding: 4px 6px;
+}
+
+@media (min-width: 1170px){
+    #input{
+        width: 195px;
+        height: 34px;
+    }
+}
